@@ -7,7 +7,7 @@ job "hello" {
       driver = "docker"
 
       config {
-        image = "devops-final:latest" # change to <dockerhub-user>/devops-final:latest if pushed to Docker Hub
+        image = "devops-final:latest" 
         network_mode = "bridge"
       }
 

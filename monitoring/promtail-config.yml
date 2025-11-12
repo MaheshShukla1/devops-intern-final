@@ -7,8 +7,6 @@ positions:
 
 clients:
   - url: http://loki:3100/loki/api/v1/push
-  # If running Loki on host, change url to http://host.docker.internal:3100/loki/api/v1/push
-  # or http://localhost:3100/loki/api/v1/push depending on environment.
 
 scrape_configs:
   - job_name: system
