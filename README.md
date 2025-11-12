@@ -102,16 +102,16 @@ nomad job status hello
 
 ## Proof Screenshots
 
-|Step|Screenshot|Description|
-|---|---|---|
-|1️⃣|`Mahesh_repo_files.png`|Repository structure|
-|2️⃣|`Mahesh_sysinfo.png`|Linux sysinfo script output|
-|3️⃣|`Mahesh_docker_build.png`|Docker build success|
-|4️⃣|`Mahesh_docker_run.png`|“Hello, DevOps!” printed|
-|5️⃣|`Mahesh_actions_summary.png`|GitHub Actions passed ✅|
-|6️⃣|`Mahesh_action_log.png`|GitHub Actions log output|
-|7️⃣|`Mahesh_loki_ready.png`|Loki service ready|
-|8️⃣|`Mahesh_nomad_job.png`|Nomad job running (optional)|
+| Step | Screenshot | Description |
+|------|-------------|-------------|
+| 1️⃣ | ![Repo Files](screenshots/Mahesh_repo_files.png) | Repository structure |
+| 2️⃣ | ![Sysinfo](screenshots/Mahesh_sysinfo.png) | Linux sysinfo script output |
+| 3️⃣ | ![Docker Build](screenshots/Mahesh_docker_build.png) | Docker build success |
+| 4️⃣ | ![Docker Run](screenshots/Mahesh_docker_run.png) | “Hello, DevOps!” printed |
+| 5️⃣ | ![Actions Summary](screenshots/Mahesh_actions_summary.png) | GitHub Actions passed ✅ |
+| 6️⃣ | ![Action Log](screenshots/Mahesh_action_log.png) | GitHub Actions log output |
+| 7️⃣ | ![Loki Ready](screenshots/Mahesh_loki_ready.png) | Loki service ready |
+| 8️⃣ | *(Optional)* | Nomad job running (if executed locally) |
 
 ## Conclusion
 
